@@ -42,7 +42,7 @@ This dataset contains information about vehicle occupants and accident character
 
 ### Key Findings
 
-- Occupant ages ranged from 16 to 97 years.
+- Occupant ages ranged from 1 to 97 years where the age group between 16 - 36 years affected most.
 - The average accident year was approximately 1999.
 - Vehicle manufacturing years ranged from 1953 to 2002, with an average around 1992.
 - Frontal collisions were more frequent than non-frontal collisions, with approximately 16,000 frontal and 9,000 non-frontal cases.
