@@ -91,5 +91,3 @@ The findings can support further investigation into road safety, vehicle safety 
 ## To conclude
 
 By analyzing two complementary datasets, this project provides a broader view of road accidents—from vehicle occupant safety and collision characteristics to casualty demographics and accident timing. It demonstrates the value of data cleaning, exploratory analysis, and visual storytelling in extracting useful insights from real-world datasets.
-
-*Note: These findings describe patterns in the analyzed data and do not, by themselves, establish causation. Correlation between vehicle manufacturing year and airbag deployment does not prove that vehicle age causes airbag deployment. Counts and trends should be interpreted in the context of each dataset's coverage and definitions.*
